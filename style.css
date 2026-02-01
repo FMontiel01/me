@@ -20,3 +20,11 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.profile-image {
+  display: block;
+  margin: 0 auto 20px auto;
+  width: 320px;     /* controls on-page display size */
+  height: auto;
+  border-radius: 12px;
+}
